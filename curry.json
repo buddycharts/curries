@@ -53,7 +53,7 @@
     },
     {
       "id": 6,
-      "name": "Domeerstic Curry",
+      "name": "Drumstick Curry",
       "quantity": "180g",
       "selling_price": 30,
       "original_price": 50,
@@ -180,6 +180,17 @@
       "images": ["curry/52.jpeg", "curry/53.jpeg", "curry/54.jpeg"],
       "ingredients": ["Chicken", "Oil", "Chilli Powder", "Ginger Garlic"],
       "nutrition": { "protein": 22, "fats": 14, "calories": 280, "carbs": 6 }
-    }
+    },
+    {
+  "id": 19,
+  "name": "Appadam",
+  "quantity": "5 pcs",
+  "selling_price": 30,
+  "original_price": 40,
+  "images": ["curry/55.jpeg", "curry/56.jpeg", "curry/57.jpeg"],
+  "ingredients": ["Urad Dal Flour", "Salt", "Oil"],
+  "nutrition": { "protein": 2, "fats": 1, "calories": 45, "carbs": 9 }
+}
+
   ]
 }
