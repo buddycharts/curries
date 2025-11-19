@@ -1,19 +1,21 @@
 const express = require("express");
 const cors = require("cors");
+const path = require("path");
 const app = express();
 
 app.use(cors());
 
-// Load your JSON file
-const data = require("./curry.json");
+// Serve curry images WITHOUT public folder
+app.use("/curry", express.static(path.join(__dirname, "curry")));
 
-// API route
-app.get("/curries", (req, res) => {
-  res.json(data);
-});
+const data = require("./curry.json");
 
 app.get("/", (req, res) => {
   res.send("Curry API Running Successfully!");
+});
+
+app.get("/curries", (req, res) => {
+  res.json(data);
 });
 
 const port = process.env.PORT || 3000;
