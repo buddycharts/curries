@@ -1,0 +1,185 @@
+{
+  "category": "Curries",
+  "items": [
+    {
+      "id": 1,
+      "name": "Potato Curry",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/1.jpeg", "curry/2.jpeg", "curry/3.jpeg"],
+      "ingredients": ["Potato", "Onion", "Tomato", "Turmeric", "Salt", "Oil", "Spices"],
+      "nutrition": { "protein": 3, "fats": 6, "calories": 140, "carbs": 22 }
+    },
+    {
+      "id": 2,
+      "name": "Brinjal Curry",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/4.jpeg", "curry/5.jpeg", "curry/6.jpeg"],
+      "ingredients": ["Brinjal", "Onion", "Tomato", "Oil", "Salt", "Masala"],
+      "nutrition": { "protein": 2, "fats": 7, "calories": 130, "carbs": 18 }
+    },
+    {
+      "id": 3,
+      "name": "Tomato Dal",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/7.jpeg", "curry/8.jpeg", "curry/9.jpeg"],
+      "ingredients": ["Tomato", "Toor Dal", "Cumin", "Garlic", "Oil", "Salt"],
+      "nutrition": { "protein": 7, "fats": 3, "calories": 150, "carbs": 20 }
+    },
+    {
+      "id": 4,
+      "name": "Normal Dal",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/10.jpeg", "curry/11.jpeg", "curry/12.jpeg"],
+      "ingredients": ["Toor Dal", "Turmeric", "Salt", "Cumin", "Ghee"],
+      "nutrition": { "protein": 8, "fats": 4, "calories": 160, "carbs": 22 }
+    },
+    {
+      "id": 5,
+      "name": "Potato Fry",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/13.jpeg", "curry/14.jpeg", "curry/15.jpeg"],
+      "ingredients": ["Potato", "Oil", "Red Chilli Powder", "Salt", "Curry Leaves"],
+      "nutrition": { "protein": 3, "fats": 10, "calories": 180, "carbs": 24 }
+    },
+    {
+      "id": 6,
+      "name": "Domeerstic Curry",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/16.jpeg", "curry/17.jpeg", "curry/18.jpeg"],
+      "ingredients": ["Mixed Veg", "Oil", "Spices", "Salt"],
+      "nutrition": { "protein": 4, "fats": 6, "calories": 135, "carbs": 20 }
+    },
+    {
+      "id": 7,
+      "name": "Ivy Gourd Curry",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/19.jpeg", "curry/20.jpeg", "curry/21.jpeg"],
+      "ingredients": ["Ivy Gourd", "Oil", "Salt", "Turmeric", "Spices"],
+      "nutrition": { "protein": 2, "fats": 5, "calories": 120, "carbs": 17 }
+    },
+    {
+      "id": 8,
+      "name": "Ivy Gourd Fry",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/22.jpeg", "curry/23.jpeg", "curry/24.jpeg"],
+      "ingredients": ["Ivy Gourd", "Oil", "Masala", "Salt"],
+      "nutrition": { "protein": 2, "fats": 8, "calories": 150, "carbs": 16 }
+    },
+    {
+      "id": 9,
+      "name": "Brinjal Fry",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/25.jpeg", "curry/26.jpeg", "curry/27.jpeg"],
+      "ingredients": ["Brinjal", "Oil", "Chilli Powder", "Salt"],
+      "nutrition": { "protein": 3, "fats": 9, "calories": 170, "carbs": 18 }
+    },
+    {
+      "id": 10,
+      "name": "Cabbage Fry",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/28.jpeg", "curry/29.jpeg", "curry/30.jpeg"],
+      "ingredients": ["Cabbage", "Chana Dal", "Oil", "Salt", "Green Chilli"],
+      "nutrition": { "protein": 3, "fats": 6, "calories": 140, "carbs": 20 }
+    },
+    {
+      "id": 11,
+      "name": "Sambar",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/31.jpeg", "curry/32.jpeg", "curry/33.jpeg"],
+      "ingredients": ["Vegetables", "Toor Dal", "Tamarind", "Spices"],
+      "nutrition": { "protein": 5, "fats": 3, "calories": 120, "carbs": 18 }
+    },
+    {
+      "id": 12,
+      "name": "Rasam",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/34.jpeg", "curry/35.jpeg", "curry/36.jpeg"],
+      "ingredients": ["Tamarind", "Tomato", "Pepper", "Cumin", "Garlic"],
+      "nutrition": { "protein": 2, "fats": 1, "calories": 60, "carbs": 10 }
+    },
+    {
+      "id": 13,
+      "name": "Cabbage Curry",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/37.jpeg", "curry/38.jpeg", "curry/39.jpeg"],
+      "ingredients": ["Cabbage", "Onion", "Oil", "Spices", "Salt"],
+      "nutrition": { "protein": 3, "fats": 5, "calories": 110, "carbs": 16 }
+    },
+    {
+      "id": 14,
+      "name": "Soya Curry",
+      "quantity": "180g",
+      "selling_price": 30,
+      "original_price": 50,
+      "images": ["curry/40.jpeg", "curry/41.jpeg", "curry/42.jpeg"],
+      "ingredients": ["Soya Chunks", "Onion", "Tomato", "Oil", "Masala"],
+      "nutrition": { "protein": 12, "fats": 6, "calories": 180, "carbs": 14 }
+    },
+    {
+      "id": 15,
+      "name": "Paneer Curry",
+      "quantity": "180g",
+      "selling_price": 100,
+      "original_price": 150,
+      "images": ["curry/43.jpeg", "curry/44.jpeg", "curry/45.jpeg"],
+      "ingredients": ["Paneer", "Tomato", "Cream", "Oil", "Garam Masala"],
+      "nutrition": { "protein": 15, "fats": 14, "calories": 230, "carbs": 10 }
+    },
+    {
+      "id": 16,
+      "name": "Chicken Curry",
+      "quantity": "180g",
+      "selling_price": 50,
+      "original_price": 100,
+      "images": ["curry/46.jpeg", "curry/47.jpeg", "curry/48.jpeg"],
+      "ingredients": ["Chicken", "Onion", "Tomato", "Oil", "Masala"],
+      "nutrition": { "protein": 20, "fats": 12, "calories": 250, "carbs": 8 }
+    },
+    {
+      "id": 17,
+      "name": "Chicken Liver Curry",
+      "quantity": "180g",
+      "selling_price": 50,
+      "original_price": 100,
+      "images": ["curry/49.jpeg", "curry/50.jpeg", "curry/51.jpeg"],
+      "ingredients": ["Chicken Liver", "Onion", "Oil", "Spices"],
+      "nutrition": { "protein": 18, "fats": 10, "calories": 220, "carbs": 6 }
+    },
+    {
+      "id": 18,
+      "name": "Chicken Fry",
+      "quantity": "180g",
+      "selling_price": 50,
+      "original_price": 100,
+      "images": ["curry/52.jpeg", "curry/53.jpeg", "curry/54.jpeg"],
+      "ingredients": ["Chicken", "Oil", "Chilli Powder", "Ginger Garlic"],
+      "nutrition": { "protein": 22, "fats": 14, "calories": 280, "carbs": 6 }
+    }
+  ]
+}
