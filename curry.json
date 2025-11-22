@@ -190,7 +190,28 @@
   "images": ["curry/55.jpeg", "curry/56.jpeg", "curry/57.jpeg"],
   "ingredients": ["Urad Dal Flour", "Salt", "Oil"],
   "nutrition": { "protein": 2, "fats": 1, "calories": 45, "carbs": 9 }
+},
+{
+  "id": 20,
+  "name": "Beetroot Curry",
+  "quantity": "180g",
+  "selling_price": 30,
+  "original_price": 50,
+  "images": ["curry/58.jpg", "curry/59.jpg", "curry/60.jpg"],
+  "ingredients": ["Beetroot", "Onion", "Green Chilli", "Oil", "Salt", "Spices"],
+  "nutrition": { "protein": 2, "fats": 5, "calories": 130, "carbs": 22 }
+},
+{
+  "id": 21,
+  "name": "Mixed Veg Curry",
+  "quantity": "180g",
+  "selling_price": 30,
+  "original_price": 50,
+  "images": ["curry/61.jpg", "curry/62.jpg", "curry/63.jpg"],
+  "ingredients": ["Carrot", "Beans", "Potato", "Peas", "Onion", "Oil", "Spices"],
+  "nutrition": { "protein": 4, "fats": 6, "calories": 150, "carbs": 25 }
 }
+
 
   ]
 }
